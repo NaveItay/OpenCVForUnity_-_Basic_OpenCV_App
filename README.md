@@ -1,1 +1,1 @@
-# OpenCVForUnity_-_Basic_OpenCV_App
+# OpenCVForUnity - Basic OpenCV App
